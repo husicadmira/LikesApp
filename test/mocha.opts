@@ -1,0 +1,4 @@
+--bail
+--timeout 20s
+test/lifecycle.test.js
+test/integration/controllers/*.test.js
